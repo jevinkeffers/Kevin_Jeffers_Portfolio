@@ -76,6 +76,9 @@ input, select, textarea {
 	font-size: 20px;
 }
 
+
+
+
 /* Darker background on mouse-over */
 .btn:hover {
 	background-color: whitesmoke;
@@ -98,7 +101,7 @@ a:hover {
 }
 /* A link that is selected */
 a:active {
-    color: green;
+    color: whitesmoke;
 }
 
 /* Row */
