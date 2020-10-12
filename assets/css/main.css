@@ -98,7 +98,7 @@ a:hover {
 }
 /* A link that is selected */
 a:active {
-    color: 2a2a2d;
+    color: green;
 }
 
 /* Row */
